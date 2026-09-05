@@ -1,4 +1,3 @@
-SMODS.Atlas { key = "ascii_tex", path = "ascii.png", px = 80, py = 8 }
 Ascii_tex = love.graphics.newImage("Mods/ASCIIlatro/assets/ascii.png")
 
 SMODS.ScreenShader { key = "ascii", path = "ascii.fs", 
