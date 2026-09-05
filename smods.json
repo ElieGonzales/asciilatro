@@ -1,0 +1,21 @@
+{
+	"id": "asciilatro",
+	"name": "asciilatro",
+	"display_name": "ASCIIlatro",
+	"author": [
+		"Elie07"
+	],
+	"description": "Turns the game into ASCII art.",
+	"prefix": "ascii",
+	"main_file": "core.lua",
+	"priority": 0,
+	"badge_colour": "000000",
+	"badge_text_colour": "00FF00",
+	"version": "2.31",
+	"dependencies": [
+		"Lovely (>=0.7)",
+		"Balatro (>=1.0.1o)"
+	],
+	"conflicts": [
+	]
+}

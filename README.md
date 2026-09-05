@@ -1,2 +1,2 @@
-# asciilatro
-Turns Balatro into ASCII art.
+# ASCIIlatro
+For a retro experience.
